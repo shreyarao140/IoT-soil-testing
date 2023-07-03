@@ -38,7 +38,7 @@ Please ensure that these libraries are properly installed in your Arduino IDE be
 4. The LCD screen will display the NPK values, temperature, and soil moisture readings in a loop.
 5. Interpret the sensor readings and take necessary actions based on the displayed information.
 
-Note: Adjust the values of `soilWet` and `soilDry` variables according to your soil's moisture levels.
+Note: Adjust the values of the `soilWet` and `soilDry` variables according to your soil's moisture levels.
 
 ## Contributing
 
@@ -51,5 +51,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - The code was developed based on examples and tutorials from the Arduino community and various sensor manufacturers.
-
-Feel free to modify the README file as needed, adding or removing sections to suit your specific project requirements and providing more details about the sensors, wiring diagrams, or additional functionalities.
